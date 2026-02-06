@@ -5,7 +5,7 @@
 This project is an embedded advertisement display system built on an AVR microcontroller using an HD44780-compatible LCD.
 Multiple advertisers are displayed randomly and fairly based on their paid amount. The system ensures that the same advertiser is never shown twice in a row and supports multiple text display effects.
 
-
+<img width="911" height="393" alt="Image" src="https://github.com/user-attachments/assets/81c49976-71e8-4071-b127-a6872a2568a7" />
 
 
 ## **Key Features**
