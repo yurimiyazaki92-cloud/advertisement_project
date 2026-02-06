@@ -12,6 +12,14 @@ Multiple advertisers are displayed randomly and fairly based on their paid amoun
 
 •	Weighted random selection of advertisers
 
+| Advertiser                   | Paid Amount (Weight) |
+|-----------------------------|----------------------|
+| Hederlige Harrys Bilar       | 5000                 |
+| Farmor Ankas Pajer AB        | 3000                 |
+| Svarte Petters Svartbyggen   | 1500                 |
+| Långbens Detektivbyrå        | 4000                 |
+| Internal Advertisement      | 1000                 |
+
 •	No consecutive duplicate ads
 
 •	Multiple message variants per advertiser
